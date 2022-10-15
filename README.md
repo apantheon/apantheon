@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @apantheon
-- 👀 I’m interested in ...computers
+- 👋 Hi, I’m @pantheon
+- 👀 I’m interested in ...World Events
 - 🌱 I’m currently learning ...linux
 - 💞️ I’m looking to collaborate on ...github
 - 📫 How to reach me ...apantheon@yahoo.com
